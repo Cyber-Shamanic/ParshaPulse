@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "relative_links_checked": 418,
+  "files": 77,
+  "errors": [],
+  "checked_at": "2026-10-31T00:54:48+02:00",
+  "cli_smoke_tests": "passed: relocated creation, overwrite rejection, traversal rejection, invalid-date rejection, package exclusions, ZIP integrity",
+  "browser_visual_test": "not run: browser executable unavailable",
+  "javascript_syntax": "passed",
+  "html_structure": "passed: unique ids, anchors, he/rtl, 120 tasks, local runtime"
+}
